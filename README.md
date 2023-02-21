@@ -1,2 +1,2 @@
-# bhs-sample-project-site
+# APCS-Web-page
 Website for AP Computer Science class
