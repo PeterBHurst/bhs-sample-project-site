@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif
+  height: 100%;
+  width: 100%;
+  }
+  
+a{
+    color: rgb(41, 106, 36)
+}
+a:hover{
+  color: #7000cc
+}
+  
+
+header {
+  margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid rgb(79, 3, 155)
+}
+  
+header h1 {
+  font-size: 3em;
+}
+  
+header nav ul li {
+  display: inline;
+}
+#project-container, #aboutme {
+margin: 0 auto; /* centers projects div */
+width: 90%; /* adds space on either side */
+max-width: 600px; /* keeps div from getting too wide */
+}
+
+.project {
+  margin-bottom: 20px;
+  padding-bottom:10px;
+  border-bottom: 1px solid rgb(79, 3, 155);
+}
+
+  .clear{
+    clear: both;
+  }
+  .project img, #aboutme img{
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+.project h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+  
